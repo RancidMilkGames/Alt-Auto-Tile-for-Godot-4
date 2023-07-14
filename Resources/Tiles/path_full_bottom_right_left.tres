@@ -14,3 +14,4 @@ surrounding = {
 6: [],
 7: [Vector2i(11, 0), Vector2i(10, 0), Vector2i(14, 0), Vector2i(13, 2), Vector2i(8, 0)]
 }
+probability = 1.0
