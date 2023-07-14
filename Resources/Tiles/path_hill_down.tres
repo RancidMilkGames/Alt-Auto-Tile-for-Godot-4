@@ -1,0 +1,16 @@
+[gd_resource type="Resource" script_class="SuperTileResource" load_steps=2 format=3 uid="uid://bb2sjeh0cajgx"]
+
+[ext_resource type="Script" path="res://addons/super_auto_tile/scripts/super_tile.gd" id="1_ks88q"]
+
+[resource]
+script = ExtResource("1_ks88q")
+surrounding = {
+0: [],
+1: [Vector2i(3, 1), Vector2i(3, 0), Vector2i(4, 0), Vector2i(5, 0), Vector2i(6, 0), Vector2i(4, 1), Vector2i(5, 1), Vector2i(6, 1), Vector2i(8, 2)],
+2: [],
+3: [Vector2i(1, 4), Vector2i(2, 4), Vector2i(3, 4), Vector2i(4, 6)],
+4: [],
+5: [Vector2i(3, 1), Vector2i(4, 1), Vector2i(5, 1), Vector2i(6, 1), Vector2i(4, 2), Vector2i(5, 2), Vector2i(6, 2), Vector2i(3, 2), Vector2i(8, 0)],
+6: [],
+7: [Vector2i(1, 4), Vector2i(0, 4), Vector2i(4, 4), Vector2i(3, 6)]
+}

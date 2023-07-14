@@ -1,0 +1,16 @@
+[gd_resource type="Resource" script_class="SuperTileResource" load_steps=2 format=3 uid="uid://bgcor4mmc54l1"]
+
+[ext_resource type="Script" path="res://addons/super_auto_tile/scripts/super_tile.gd" id="1_6hant"]
+
+[resource]
+script = ExtResource("1_6hant")
+surrounding = {
+0: [],
+1: [],
+2: [],
+3: [],
+4: [],
+5: [],
+6: [],
+7: []
+}
